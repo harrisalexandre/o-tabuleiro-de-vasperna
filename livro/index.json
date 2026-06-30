@@ -1,0 +1,54 @@
+{
+  "titulo": "O Tabuleiro de Vasperna",
+  "autor": "Harris Alexandre",
+  "descricao": "Oito anos após o caso da estátua de cinábrio, Heitor Anchieta retorna a Vasperna para cumprir um último favor ao antigo parceiro. Entre cadernos, mortes e padrões impossíveis, ele descobrirá que algumas obsessões sobrevivem aos mortos.",
+  "capitulos": [
+    { "arquivo": "copyright.md", "titulo": "Copyright", "ato": "Prólogo" },
+    { "arquivo": "epigrafe.md", "titulo": "Epígrafe", "ato": "Prólogo" },
+    { "arquivo": "dedicatoria.md", "titulo": "Dedicatória", "ato": "Prólogo" },
+    { "arquivo": "prologo.md", "titulo": "Prólogo — O Último Registro", "ato": "Prólogo" },
+
+    { "arquivo": "cap01.md", "titulo": "Capítulo 1 — A Ligação", "ato": "Ato I — O Favor" },
+    { "arquivo": "cap02.md", "titulo": "Capítulo 2 — O Apartamento", "ato": "Ato I — O Favor" },
+    { "arquivo": "cap03.md", "titulo": "Capítulo 3 — Papel e Poeira", "ato": "Ato I — O Favor" },
+    { "arquivo": "cap04.md", "titulo": "Capítulo 4 — Quem Era Esse Homem", "ato": "Ato I — O Favor" },
+    { "arquivo": "cap05.md", "titulo": "Capítulo 5 — A Lanterna", "ato": "Ato I — O Favor" },
+    { "arquivo": "cap06.md", "titulo": "Capítulo 6 — Primeira Morte Nova", "ato": "Ato I — O Favor" },
+    { "arquivo": "cap07.md", "titulo": "Capítulo 7 — Uma Semana Vira um Mês", "ato": "Ato I — O Favor" },
+
+    { "arquivo": "interlude1.md", "titulo": "Interlúdio I — A Cidade Que Esquece Devagar", "ato": "Ato II — O Padrão" },
+
+    { "arquivo": "cap08.md", "titulo": "Capítulo 8 — A Lista", "ato": "Ato II — O Padrão" },
+    { "arquivo": "cap09.md", "titulo": "Capítulo 9 — Nome Sem Rosto", "ato": "Ato II — O Padrão" },
+    { "arquivo": "cap10.md", "titulo": "Capítulo 10 — Renata Atende a Porta", "ato": "Ato II — O Padrão" },
+    { "arquivo": "cap11.md", "titulo": "Capítulo 11 — Voz Atrás do Vidro", "ato": "Ato II — O Padrão" },
+    { "arquivo": "cap12.md", "titulo": "Capítulo 12 — Quase", "ato": "Ato II — O Padrão" },
+    { "arquivo": "cap13.md", "titulo": "Capítulo 13 — Ligação Perdida", "ato": "Ato II — O Padrão" },
+    { "arquivo": "cap14.md", "titulo": "Capítulo 14 — Soturna Velha", "ato": "Ato II — O Padrão" },
+    { "arquivo": "cap15.md", "titulo": "Capítulo 15 — A Promessa Quebrada", "ato": "Ato II — O Padrão" },
+
+    { "arquivo": "interlude2.md", "titulo": "Interlúdio II — Vasperna Tranca as Portas", "ato": "Ato III — O Rosto" },
+
+    { "arquivo": "cap16.md", "titulo": "Capítulo 16 — O Nome Certo", "ato": "Ato III — O Rosto" },
+    { "arquivo": "cap17.md", "titulo": "Capítulo 17 — Cara a Cara", "ato": "Ato III — O Rosto" },
+    { "arquivo": "cap18.md", "titulo": "Capítulo 18 — Sem Provas", "ato": "Ato III — O Rosto" },
+    { "arquivo": "cap19.md", "titulo": "Capítulo 19 — A Mensagem Direta", "ato": "Ato III — O Rosto" },
+    { "arquivo": "cap20.md", "titulo": "Capítulo 20 — Casa Vazia", "ato": "Ato III — O Rosto" },
+    { "arquivo": "cap21.md", "titulo": "Capítulo 21 — O Salto", "ato": "Ato III — O Rosto" },
+
+    { "arquivo": "interlude3.md", "titulo": "Interlúdio III — O Silêncio Antes", "ato": "Ato IV — O Tabuleiro Vira" },
+
+    { "arquivo": "cap22.md", "titulo": "Capítulo 22 — Confirmação", "ato": "Ato IV — O Tabuleiro Vira" },
+    { "arquivo": "cap23.md", "titulo": "Capítulo 23 — Pensar Como Ele", "ato": "Ato IV — O Tabuleiro Vira" },
+    { "arquivo": "cap24.md", "titulo": "Capítulo 24 — A Casa de Norato", "ato": "Ato IV — O Tabuleiro Vira" },
+    { "arquivo": "cap25.md", "titulo": "Capítulo 25 — O Pequeno Cinábrio", "ato": "Ato IV — O Tabuleiro Vira" },
+    { "arquivo": "cap26.md", "titulo": "Capítulo 26 — Visita Inesperada", "ato": "Ato IV — O Tabuleiro Vira" },
+    { "arquivo": "cap27.md", "titulo": "Capítulo 27 — Ternura", "ato": "Ato IV — O Tabuleiro Vira" },
+    { "arquivo": "cap28.md", "titulo": "Capítulo 28 — O Que Sobra", "ato": "Ato IV — O Tabuleiro Vira" },
+
+    { "arquivo": "epilogo.md", "titulo": "Epílogo — Vasperna Segue", "ato": "Epílogo" },
+
+    { "arquivo": "extras.md", "titulo": "Extras", "ato": "Extras" },
+    { "arquivo": "about-author.md", "titulo": "Sobre o Autor", "ato": "Extras" }
+  ]
+}
