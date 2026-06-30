@@ -4,6 +4,9 @@
 
 ---
 
+> **Leitura online:** https://harrisalexandre.github.io/o-tabuleiro-de-vasperna-/
+
+---
 ## Sobre a obra
 
 Oito anos se passaram desde os acontecimentos de **Olhos do Silêncio**.
