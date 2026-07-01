@@ -4,7 +4,7 @@
 
 ---
 
-> **Leitura online:** https://harrisalexandre.github.io/o-tabuleiro-de-vasperna-/
+> **Leitura online:** https://harrisalexandre.github.io/o-tabuleiro-de-vasperna/
 
 ---
 ## Sobre a obra
