@@ -1,6 +1,11 @@
 /* =========================================================
-   OLHOS DO SILÊNCIO: O Tabuleiro de Vasperna — eBook Reader
-   script.js — main application logic
+   O TABULEIRO DE VASPERNA — eBook Reader
+   Main Application Logic (script.js)
+
+   Desenvolvido por Harris Alexandre
+   https://www.instagram.com/_harrisalexandre/
+
+   © 2026. Todos os direitos reservados.
    ========================================================= */
 
 'use strict';
