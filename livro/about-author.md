@@ -12,7 +12,7 @@ Escritor Independente
 </div>
 
 
-Apaixonado por tecnologia, design e narrativas que provocam reflexão, Harris Alexandre estreia na ficção com **Olhos do Silêncio**, um romance de terror psicológico e suspense onde o verdadeiro horror não está no sobrenatural, mas naquilo que cada pessoa carrega dentro de si.
+Apaixonado por tecnologia, design e narrativas que provocam reflexão, Harris Alexandre estreou na ficção com **Olhos do Silêncio**, romance de terror psicológico e suspense onde o verdadeiro horror não está no sobrenatural, mas naquilo que cada pessoa carrega dentro de si. Em **O Tabuleiro de Vasperna**, retorna ao mesmo universo para provar, de um novo ângulo, que a peça nunca foi o monstro — só o espelho.
 
 Mais do que responder perguntas, suas histórias procuram deixar uma última inquietação: **e se o maior monstro sempre tiver sido o reflexo da própria humanidade?**
 
